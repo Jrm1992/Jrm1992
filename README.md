@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm José Roberto</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🔭 I’m currently studying **Software Engineering**
+Highly motivated Software Engineering student with skills in web development using HTML, CSS, and TypeScript. I have experience with modern frameworks and libraries such as React, Next.js, and Node.js, and I am proficient in using testing tools like Jest and React Testing Library to ensure code quality. Additionally, I have knowledge of Styled Components and Tailwind CSS to create appealing and responsive interfaces.
+
+Key skills:
+
+✔️ Web development using HTML, CSS, and TypeScript.
+✔️ Frameworks and libraries like React, Next.js, and Node.js.
+✔️ Unit testing using Jest and React Testing Library.
+✔️ Styling using Styled Components and Tailwind CSS.
+
+I am always eager to learn new technologies and enhance my software engineering skills. I am passionate about creating efficient and user-friendly solutions, as well as working as part of a team to achieve common goals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
