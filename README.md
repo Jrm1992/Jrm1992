@@ -5,10 +5,10 @@ Highly motivated Software Engineering student with skills in web development usi
 
 Key skills:
 
-✔️ Web development using HTML, CSS, and TypeScript.
-✔️ Frameworks and libraries like React, Next.js, and Node.js.
-✔️ Unit testing using Jest and React Testing Library.
-✔️ Styling using Styled Components and Tailwind CSS.
+<p align="left">✔️ Web development using HTML, CSS, and TypeScript.</p>
+<p align="left">✔️ Frameworks and libraries like React, Next.js, and Node.js.</p>
+<p align="left">✔️ Unit testing using Jest and React Testing Library.</p>
+<p align="left">✔️ Styling using Styled Components and Tailwind CSS.</p>
 
 I am always eager to learn new technologies and enhance my software engineering skills. I am passionate about creating efficient and user-friendly solutions, as well as working as part of a team to achieve common goals.
 
