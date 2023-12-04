@@ -2,6 +2,11 @@
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 <br />
 
+<p align="center">
+  <img src="https://media.istockphoto.com/id/1167498797/pt/vetorial/web-development-coding-and-programming-responsive-layout-internet-site-or-app-of-devices.jpg?s=612x612&w=0&k=20&c=rtLsW-xoFaJ4YFPoqiB65efYgifnULYivpUYpOYjIn0=">
+  <br />
+</p>
+
 Highly motivated Software Engineering student with skills in web development using HTML, CSS, and TypeScript. I have experience with modern frameworks and libraries such as React, Next.js, and Node.js, and I am proficient in using testing tools like Jest and React Testing Library to ensure code quality. Additionally, I have knowledge of Styled Components and Tailwind CSS to create appealing and responsive interfaces.
 
 Key skills:
