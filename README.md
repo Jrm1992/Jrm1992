@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1167498797/pt/vetorial/web-development-coding-and-programming-responsive-layout-internet-site-or-app-of-devices.jpg?s=612x612&w=0&k=20&c=rtLsW-xoFaJ4YFPoqiB65efYgifnULYivpUYpOYjIn0=">
+  <img src="https://res.cloudinary.com/dvl0qkg1s/image/upload/v1701652872/5-reasons-to-choose-software-development-as-a-career-removebg-preview_w2x6nh.png">
   <br />
 </p>
 
