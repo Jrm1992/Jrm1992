@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-  <img width="427px" src="https://portfolio2-0-git-main-jrm1992.vercel.app/_next/image?url=%2Favatar.png&w=1920&q=75" />
+  <img width="380px" src="https://portfolio2-0-git-main-jrm1992.vercel.app/_next/image?url=%2Favatar.png&w=1920&q=75" />
 </div>
 
 
