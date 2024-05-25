@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="left">
+<div style="display: flex;">
   <a href="https://github.com/Jrm1992">
     <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="José Roberto's github stats" />
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrm1992&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" />
