@@ -12,7 +12,7 @@
     <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrm1992&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" />
   </a>
   <div>
-    <img width="427px" height="427px" align="left" src="https://portfolio2-0-git-main-jrm1992.vercel.app/_next/image?url=%2Favatar.png&w=1920&q=75" />
+    <img width="427px" align="right" src="https://portfolio2-0-git-main-jrm1992.vercel.app/_next/image?url=%2Favatar.png&w=1920&q=75" />
   </div>
 </div>
 
