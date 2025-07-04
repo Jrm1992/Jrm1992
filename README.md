@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full-Stack+Developer;Passionate+about+Web+%26+Mobile+Development;Always+Learning+New+Technologies!)](https://github.com/Jrm1992)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+José+Roberto;I'm+a+Software+Engineer;I'm+passionate+about+web+development;Welcome+to+my+GitHub!)](https://github.com/Jrm1992)
 
 </div>
 
