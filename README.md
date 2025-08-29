@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://github.com/Jrm1992"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hi+I'm+José+Roberto&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/Jrm1992"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hi,+I'm+José+Roberto&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
 </div>
 
 <div align="center">
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+José+Roberto;I'm+a+Software+Engineer;I'm+passionate+about+web+development;Welcome+to+my+GitHub!)](https://github.com/Jrm1992)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I+am+José+Roberto;I'm+a+Software+Engineer;I'm+passionate+about+web+development;Welcome+to+my+GitHub!)](https://github.com/Jrm1992)
 
 </div>
 
