@@ -62,15 +62,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent&include_all_commits=true" alt="José Roberto's GitHub Stats" />
+  <img width="70%" src="https://github-stats-extended.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&include_all_commits=true" alt="José Roberto's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jrm1992&bg_color=0a0c10&color=937CD5&line=6474B9&point=937CD5&area=true&hide_border=false"/>
+  <img width="100%" src="https://ghchart.rshah.org/6474B9/Jrm1992" alt="José Roberto's contribution chart"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jrm1992&hide_border=true&background=0a0c10&stroke=6474B9&ring=6474B9&fire=937CD5&currStreakLabel=937CD5&sideLabels=937CD5&dates=6474B9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Jrm1992&hide_border=true&background=0a0c10&stroke=6474B9&ring=6474B9&fire=937CD5&currStreakLabel=937CD5&sideLabels=937CD5&dates=6474B9&currStreakNum=E8E6F3&sideNums=E8E6F3" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Get in touch
