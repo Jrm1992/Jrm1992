@@ -66,10 +66,6 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/6474B9/Jrm1992" alt="José Roberto's contribution chart"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Jrm1992&hide_border=true&background=0a0c10&stroke=6474B9&ring=6474B9&fire=937CD5&currStreakLabel=937CD5&sideLabels=937CD5&dates=6474B9&currStreakNum=E8E6F3&sideNums=E8E6F3" alt="GitHub Streak"/>
 </div>
 
