@@ -62,6 +62,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="70%" src="https://github-stats-extended.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&include_all_commits=true" alt="José Roberto's GitHub Stats"/>
+</div>
+
+<div align="center">
   <img width="100%" src="https://ghchart.rshah.org/6474B9/Jrm1992" alt="José Roberto's contribution chart"/>
 </div>
 
