@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://github.com/Jrm1992"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=Hi,+I'm+José+Roberto&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/></a>
+<a href="https://github.com/Jrm1992"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=232D16&height=180&section=header&text=Hi,+I'm+José+Roberto&fontSize=30&fontColor=C8F284&animation=twinkling&fontAlignY=35"/></a>
 </div>
 
 <div align="center">
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com/?color=6474B9&size=32&center=true&vCenter=true&width=1000&lines=Software+Engineer;Go+and+TypeScript+on+the+backend;React+and+React+Native+on+the+front;Building+AI+agents+that+ship+code)](https://github.com/Jrm1992)
+   [![Typing SVG](https://readme-typing-svg.demolab.com/?color=C8F284&size=32&center=true&vCenter=true&width=1000&lines=Software+Engineer;Go+and+TypeScript+on+the+backend;React+and+React+Native+on+the+front;Building+AI+agents+that+ship+code)](https://github.com/Jrm1992)
 
 </div>
 
@@ -62,15 +62,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="70%" src="https://github-stats-extended.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&include_all_commits=true" alt="José Roberto's GitHub Stats"/>
+  <img width="70%" src="https://github-stats-extended.vercel.app/api?username=Jrm1992&show_icons=true&count_private=true&hide_border=true&title_color=C8F284&icon_color=FFB020&text_color=D7E8B8&bg_color=0a0c10&include_all_commits=true" alt="José Roberto's GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://ghchart.rshah.org/6474B9/Jrm1992" alt="José Roberto's contribution chart"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jrm1992&hide_border=true&background=0a0c10&stroke=6474B9&ring=6474B9&fire=937CD5&currStreakLabel=937CD5&sideLabels=937CD5&dates=6474B9&currStreakNum=E8E6F3&sideNums=E8E6F3" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Jrm1992&hide_border=true&background=0a0c10&stroke=3A4A24&ring=FFB020&fire=FFB020&currStreakLabel=C8F284&sideLabels=C8F284&dates=8FA86B&currStreakNum=F2FBE4&sideNums=F2FBE4" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Get in touch
@@ -82,6 +78,6 @@
 
 <div align="center">
     <a href="https://github.com/Jrm1992">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=232D16&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=C8F284&animation=twinkling&fontAlignY=55"/>
 </a>
 </div>
